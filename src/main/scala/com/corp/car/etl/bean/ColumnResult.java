@@ -1,0 +1,14 @@
+package com.corp.car.etl.bean;
+
+
+public class ColumnResult extends ColumnModel {
+    private Object value;
+
+    public Object getValue() {
+        return value;
+    }
+
+    public void setValue(Object value) {
+        this.value = value;
+    }
+}
