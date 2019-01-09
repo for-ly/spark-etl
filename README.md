@@ -14,4 +14,4 @@ spark-submit \
  --executor-memory 10g \
  --executor-cores 2 \
  --num-executors 8 \
- /home/q/cardev/car-data-etl-1.0-SNAPSHOT-jar-with-dependencies.jar
+ /home/q/username/car-data-etl-1.0-SNAPSHOT-jar-with-dependencies.jar
